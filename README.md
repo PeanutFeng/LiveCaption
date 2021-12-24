@@ -18,3 +18,7 @@ Preview
 Download 
 -------
 https://play.google.com/store/apps/details?id=com.aicaption.android
+<div class='row'>
+<img  width="243" height="243" src="https://github.com/PeanutFeng/Live-Caption/blob/main/qrcode.png"'/>
+</div>
+
