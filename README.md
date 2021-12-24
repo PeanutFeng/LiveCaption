@@ -5,12 +5,12 @@ This is a tool for generating captions. It can detect the voice of the media bei
 Preview
 ------- 
 <div class='row'>
-<img  width="250" height="445" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(1).png"'/>
-<img  width="250" height="445" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(2).png"'/>
-<img  width="250" height="445" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(3).png"'/>
-<img  width="250" height="445" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(4).png"'/>
-<img  width="250" height="445" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(5).png"'/>
-<img  width="250" height="445" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(6).png"'/>
+<img  width="243" height="512" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(1).png"'/>
+<img  width="243" height="512" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(2).png"'/>
+<img  width="243" height="512" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(3).png"'/>
+<img  width="243" height="512" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(4).png"'/>
+<img  width="243" height="512" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(5).png"'/>
+<img  width="243" height="512" src="https://github.com/PeanutFeng/Live-Caption/blob/main/unnamed%20(6).png"'/>
 
 </div>
 
